@@ -1,0 +1,4 @@
+Docker Container for running the caffe deep learning framework.
+
+* Provides all necessary dependencies and sources for pycaffe caffe in cpu mode.
+* Sets up an extra user `caffe` and pulls the latest caffe version from github.
